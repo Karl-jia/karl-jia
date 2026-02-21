@@ -4,6 +4,6 @@ I'm a high school student learning C++.
 My goal is to invest in $TSLA and $VOO.
 
 🛠 Learning Progress
-[✓] Basic C++ Logic
+* [✓] Basic C++ Logic
 
-[10%] C++ algorithm
+* [10%] C++ algorithm
